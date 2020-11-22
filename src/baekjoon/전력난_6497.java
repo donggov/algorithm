@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.StringTokenizer;
 
-public class DarkRoads_6497 {
+public class 전력난_6497 {
 
     private static int M, N;
     private static Point[] POINTS;
