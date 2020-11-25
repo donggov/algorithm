@@ -1,10 +1,9 @@
 package baekjoon;
 
 import java.io.*;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class 디지털비디오디스크_9345 {
+public class 영화수집_3653 {
 
     private static int T, N, M, LEAF_START;
     private static int[] TREE, DVD_INDEX;
