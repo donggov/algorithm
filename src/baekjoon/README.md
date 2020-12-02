@@ -61,7 +61,7 @@
 - (완) 1948번: 임계경로 (★)
 
 ### 3-3. LCA(Lowest Common Ancestor)
-- 11438번: LCA 2
+- (완) 11438번: LCA 2
 - 1761번: 정점들의 거리
 - 8012번: Byteasar the Travelling Salesman
 - 15480번: LCA와 쿼리 (★)
