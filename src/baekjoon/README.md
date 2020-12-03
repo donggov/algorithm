@@ -62,8 +62,8 @@
 
 ### 3-3. LCA(Lowest Common Ancestor)
 - (완) 11438번: LCA 2
-- 1761번: 정점들의 거리
-- 8012번: Byteasar the Travelling Salesman
+- (완) 1761번: 정점들의 거리
+- 8012번: 한동이는 영업사원!
 - 15480번: LCA와 쿼리 (★)
 - 1396번: 크루스칼의 공 (★)
 
