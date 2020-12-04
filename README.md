@@ -98,8 +98,17 @@
 
 
 ## 주요 코드
+### 1. 최대공약수 (유클리드 호제법)
+````java
+static int gcd(int a, int b) {
+    if (b == 0) {
+        return a;
+    }
+    return gcd(b, a % b);
+}
+````
 
-### 1. 다익스트라
+### 2. 다익스트라
 prev를 배열을 사용하면 최단경로 추적도 가능하다.
 ````java
 static int[] dijkstra(int start) {
